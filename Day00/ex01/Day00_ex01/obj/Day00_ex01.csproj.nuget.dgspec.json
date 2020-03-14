@@ -1,0 +1,64 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\marod bits\\Desktop\\vr piscine\\Day00_ex01\\Day00_ex01\\Day00_ex01.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\marod bits\\Desktop\\vr piscine\\Day00_ex01\\Day00_ex01\\Day00_ex01.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\marod bits\\Desktop\\vr piscine\\Day00_ex01\\Day00_ex01\\Day00_ex01.csproj",
+        "projectName": "Day00_ex01",
+        "projectPath": "C:\\Users\\marod bits\\Desktop\\vr piscine\\Day00_ex01\\Day00_ex01\\Day00_ex01.csproj",
+        "packagesPath": "C:\\Users\\marod bits\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\marod bits\\Desktop\\vr piscine\\Day00_ex01\\Day00_ex01\\obj\\",
+        "projectStyle": "PackageReference",
+        "crossTargeting": true,
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\marod bits\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.0": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.0.0, )",
+              "autoReferenced": true
+            },
+            "StereoKit": {
+              "target": "Package",
+              "version": "[0.*, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,11 @@
+C:\Users\marod bits\Desktop\vr piscine\Day00_ex01\Day00_ex01\bin\Debug\netcoreapp2.0\Day00_ex01.deps.json
+C:\Users\marod bits\Desktop\vr piscine\Day00_ex01\Day00_ex01\bin\Debug\netcoreapp2.0\Day00_ex01.runtimeconfig.json
+C:\Users\marod bits\Desktop\vr piscine\Day00_ex01\Day00_ex01\bin\Debug\netcoreapp2.0\Day00_ex01.runtimeconfig.dev.json
+C:\Users\marod bits\Desktop\vr piscine\Day00_ex01\Day00_ex01\bin\Debug\netcoreapp2.0\Day00_ex01.dll
+C:\Users\marod bits\Desktop\vr piscine\Day00_ex01\Day00_ex01\bin\Debug\netcoreapp2.0\Day00_ex01.pdb
+C:\Users\marod bits\Desktop\vr piscine\Day00_ex01\Day00_ex01\obj\Debug\netcoreapp2.0\Day00_ex01.csprojAssemblyReference.cache
+C:\Users\marod bits\Desktop\vr piscine\Day00_ex01\Day00_ex01\obj\Debug\netcoreapp2.0\Day00_ex01.csproj.CoreCompileInputs.cache
+C:\Users\marod bits\Desktop\vr piscine\Day00_ex01\Day00_ex01\obj\Debug\netcoreapp2.0\Day00_ex01.AssemblyInfoInputs.cache
+C:\Users\marod bits\Desktop\vr piscine\Day00_ex01\Day00_ex01\obj\Debug\netcoreapp2.0\Day00_ex01.AssemblyInfo.cs
+C:\Users\marod bits\Desktop\vr piscine\Day00_ex01\Day00_ex01\obj\Debug\netcoreapp2.0\Day00_ex01.dll
+C:\Users\marod bits\Desktop\vr piscine\Day00_ex01\Day00_ex01\obj\Debug\netcoreapp2.0\Day00_ex01.pdb
